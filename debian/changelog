@@ -1,0 +1,42 @@
+ros-hydro-visual-pose-estimation (1.0.4-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-visual-pose-estimation (1.0.3-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-visual-pose-estimation (1.0.2-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-visual-pose-estimation (1.0.1-0precise) precise; urgency=high
+
+  * Added install targets
+  * Generate changelogs
+  * Exported libraries
+  * Catkinized
+  * Updated package.xml
+  * thigns
+  * working with fuerte
+  * Start using new camera model in Electric. #5165 <https://github.com/PR2/pr2_plugs/issues/5165>
+  * copy branch into trunk
+  * Contributors: TheDash, Wim Meeussen, wim
+  * Exported libraries
+  * Catkinized
+  * Updated package.xml
+  * thigns
+  * working with fuerte
+  * Start using new camera model in Electric. #5165 <https://github.com/PR2/pr2_plugs/issues/5165>
+  * copy branch into trunk
+  * Contributors: TheDash, Wim Meeussen, wim
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+
