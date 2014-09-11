@@ -1,0 +1,75 @@
+ros-hydro-outlet-pose-estimation (1.0.8-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.7-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.6-0raring) raring; urgency=high
+
+  * Added cleaner CMakeLists for stereo_wall_detection and fixed bugs inside of it found using catkin_lint
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.5-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.4-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.3-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.2-0raring) raring; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-outlet-pose-estimation (1.0.1-0raring) raring; urgency=high
+
+  * ADded install targets
+  * Generate changelogs
+  * Exported libraries
+  * Exported library
+  * compiles
+  * added include
+  * catkin
+  * Catkinization
+  * catkinization of pr2_*
+  * Add another dep on openCV
+  * Reverting some changes in the outlet pose estimation that now reflect the current opencv api
+  * Fixing compiler problems after a change in opencv folder structure
+  * copy branch into trunk
+  * Contributors: Austin Hendrix, TheDash, jbohren, relrotciv, wim
+  * Exported libraries
+  * Exported library
+  * compiles
+  * added include
+  * catkin
+  * Catkinization
+  * catkinization of pr2_*
+  * Add another dep on openCV
+  * Reverting some changes in the outlet pose estimation that now reflect the current opencv api
+  * Fixing compiler problems after a change in opencv folder structure
+  * copy branch into trunk
+  * Contributors: Austin Hendrix, TheDash, jbohren, relrotciv, wim
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+
