@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-plugs-actions
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-base-local-planner, ros-hydro-catkin, ros-hydro-checkerboard-pose-estimation, ros-hydro-costmap-2d, ros-hydro-cv-bridge, ros-hydro-dynamic-reconfigure, ros-hydro-geometry-msgs, ros-hydro-image-transport, ros-hydro-joint-trajectory-action-tools, ros-hydro-move-base-msgs, ros-hydro-outlet-pose-estimation, ros-hydro-pr2-arm-move-ik, ros-hydro-pr2-common-action-msgs, ros-hydro-pr2-controller-manager, ros-hydro-pr2-controllers-msgs, ros-hydro-pr2-image-snapshot-recorder, ros-hydro-pr2-msgs, ros-hydro-pr2-plugs-common, ros-hydro-pr2-plugs-msgs, ros-hydro-roscpp, ros-hydro-roscpp-serialization, ros-hydro-rospy, ros-hydro-rostest, ros-hydro-sensor-msgs, ros-hydro-smach, ros-hydro-smach-ros, ros-hydro-std-srvs, ros-hydro-stereo-wall-detection, ros-hydro-tf, ros-hydro-tf-conversions, ros-hydro-tf2-geometry-msgs, ros-hydro-tf2-ros
+Homepage: http://ros.org/wiki/pr2_plugs_actions
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-plugs-actions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-base-local-planner, ros-hydro-checkerboard-pose-estimation, ros-hydro-costmap-2d, ros-hydro-cv-bridge, ros-hydro-dynamic-reconfigure, ros-hydro-geometry-msgs, ros-hydro-image-transport, ros-hydro-joint-trajectory-action-tools, ros-hydro-move-base-msgs, ros-hydro-outlet-pose-estimation, ros-hydro-pr2-arm-move-ik, ros-hydro-pr2-common-action-msgs, ros-hydro-pr2-controller-manager, ros-hydro-pr2-controllers-msgs, ros-hydro-pr2-image-snapshot-recorder, ros-hydro-pr2-msgs, ros-hydro-pr2-plugs-common, ros-hydro-pr2-plugs-msgs, ros-hydro-roscpp, ros-hydro-roscpp-serialization, ros-hydro-rospy, ros-hydro-rostest, ros-hydro-sensor-msgs, ros-hydro-smach, ros-hydro-smach-ros, ros-hydro-std-srvs, ros-hydro-stereo-wall-detection, ros-hydro-tf, ros-hydro-tf-conversions, ros-hydro-tf2-geometry-msgs, ros-hydro-tf2-ros
+Description: pr2_plugs_actions contains actions specific to plugging in the PR2 robot.
