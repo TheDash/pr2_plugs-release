@@ -1,3 +1,0 @@
-<launch>
-  <test test-name="joint_space_move_test" pkg="pr2_plugs_common" type="joint_space_move_test"/>
-</launch>
