@@ -2,6 +2,11 @@
 Changelog for package stereo_wall_detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.9 (2014-09-17)
+------------------
+* Added dependencies
+* Contributors: TheDash
+
 1.0.8 (2014-09-11)
 ------------------
 
