@@ -1,0 +1,12 @@
+Source: ros-hydro-outlet-pose-estimation
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-visual-pose-estimation
+Homepage: http://ros.org/wiki/outlet_pose_estimation
+Standards-Version: 3.9.2
+
+Package: ros-hydro-outlet-pose-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-visual-pose-estimation
+Description: outlet_pose_estimation
