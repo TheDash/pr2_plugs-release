@@ -2,6 +2,24 @@
 Changelog for package outlet_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.12 (2014-10-10)
+-------------------
+
+1.0.11 (2014-10-10)
+-------------------
+* Added library install for outlet_pose_estimation
+* Contributors: TheDash
+
+1.0.10 (2014-09-18)
+-------------------
+* Fixed up CMakeLists in outlet_pose
+* pr2_plugs is now in unstable, compiles
+* things
+* Contributors: TheDash, dash
+
+* things
+* Contributors: TheDash
+
 1.0.9 (2014-09-17)
 ------------------
 
