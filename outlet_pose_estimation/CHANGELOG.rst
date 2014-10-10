@@ -1,0 +1,59 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package outlet_pose_estimation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.0.9 (2014-09-17)
+------------------
+
+1.0.8 (2014-09-11)
+------------------
+
+1.0.7 (2014-09-11)
+------------------
+
+1.0.6 (2014-09-11)
+------------------
+* Added cleaner CMakeLists for stereo_wall_detection and fixed bugs inside of it found using catkin_lint
+* Contributors: TheDash
+
+1.0.5 (2014-09-08)
+------------------
+
+1.0.4 (2014-09-08)
+------------------
+
+1.0.3 (2014-09-08)
+------------------
+
+1.0.2 (2014-09-08)
+------------------
+
+1.0.1 (2014-09-08)
+------------------
+* ADded install targets
+* Generate changelogs
+* Exported libraries
+* Exported library
+* compiles
+* added include
+* catkin
+* Catkinization
+* catkinization of pr2_*
+* Add another dep on openCV
+* Reverting some changes in the outlet pose estimation that now reflect the current opencv api
+* Fixing compiler problems after a change in opencv folder structure
+* copy branch into trunk
+* Contributors: Austin Hendrix, TheDash, jbohren, relrotciv, wim
+
+* Exported libraries
+* Exported library
+* compiles
+* added include
+* catkin
+* Catkinization
+* catkinization of pr2_*
+* Add another dep on openCV
+* Reverting some changes in the outlet pose estimation that now reflect the current opencv api
+* Fixing compiler problems after a change in opencv folder structure
+* copy branch into trunk
+* Contributors: Austin Hendrix, TheDash, jbohren, relrotciv, wim
