@@ -1,0 +1,12 @@
+Source: ros-hydro-checkerboard-pose-estimation
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-image-transport, ros-hydro-opencv2, ros-hydro-outlet-pose-estimation, ros-hydro-roscpp, ros-hydro-visual-pose-estimation
+Homepage: http://ros.org/wiki/checkerboard_pose_estimation
+Standards-Version: 3.9.2
+
+Package: ros-hydro-checkerboard-pose-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cv-bridge, ros-hydro-image-transport, ros-hydro-opencv2, ros-hydro-outlet-pose-estimation, ros-hydro-roscpp, ros-hydro-visual-pose-estimation
+Description: checkerboard_pose_estimation
