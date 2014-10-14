@@ -2,6 +2,12 @@
 Changelog for package pr2_plugs_actions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.13 (2014-10-14)
+-------------------
+* Removed testing install
+* Removed mainpage.dox
+* Contributors: TheDash
+
 1.0.12 (2014-10-10)
 -------------------
 
