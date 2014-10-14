@@ -2,6 +2,12 @@
 Changelog for package visual_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.13 (2014-10-14)
+-------------------
+* |Compiles now
+* Removed mainpage.dox
+* Contributors: TheDash
+
 1.0.12 (2014-10-10)
 -------------------
 
