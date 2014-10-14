@@ -2,6 +2,12 @@
 Changelog for package pr2_plugs_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.13 (2014-10-14)
+-------------------
+* Removed pr2_plugs mainpage.dox
+* Removed mainpage.dox
+* Contributors: TheDash
+
 1.0.12 (2014-10-10)
 -------------------
 
