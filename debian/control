@@ -1,0 +1,12 @@
+Source: ros-hydro-visual-pose-estimation
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-image-geometry, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-tf
+Homepage: http://ros.org/wiki/visual_pose_estimation
+Standards-Version: 3.9.2
+
+Package: ros-hydro-visual-pose-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-image-geometry, ros-hydro-opencv2, ros-hydro-roscpp, ros-hydro-tf
+Description: visual_pose_estimation
