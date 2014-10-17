@@ -2,6 +2,11 @@
 Changelog for package checkerboard_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.14 (2014-10-17)
+-------------------
+* Fixing orocos bug
+* Contributors: TheDash
+
 1.0.13 (2014-10-14)
 -------------------
 * Removed mainpage.dox
