@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-image-snapshot-recorder
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-rosbag, ros-hydro-rospy, ros-hydro-sensor-msgs
+Homepage: http://ros.org/wiki/pr2_image_snapshot_recorder
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-image-snapshot-recorder
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-rosbag, ros-hydro-rospy, ros-hydro-sensor-msgs
+Description: pr2_image_snapshot_recorder
