@@ -2,6 +2,14 @@
 Changelog for package outlet_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.16 (2014-10-20)
+-------------------
+* Linked outlet_pose_estimation to catkin_LIBRARIES
+* Contributors: TheDash
+
+1.0.15 (2014-10-20)
+-------------------
+
 1.0.14 (2014-10-17)
 -------------------
 
