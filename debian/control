@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-plugs
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://ros.org/wiki/pr2_plugs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-plugs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-checkerboard-pose-estimation, ros-hydro-outlet-pose-estimation, ros-hydro-pr2-image-snapshot-recorder, ros-hydro-pr2-plugs-actions, ros-hydro-pr2-plugs-common, ros-hydro-pr2-plugs-msgs, ros-hydro-stereo-wall-detection, ros-hydro-visual-pose-estimation
+Description: pr2_plugs metapackage. The pr2_plugs metapackage groups all of the functionality needed for the pr2 to plug itself into the wall
