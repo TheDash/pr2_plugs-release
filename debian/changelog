@@ -1,0 +1,161 @@
+ros-hydro-pr2-plugs-common (1.0.19-0precise) precise; urgency=high
+
+  * Added set(orocos_kdl_DIR) to get around the fail orocos_kdl package, will not work if orocos is being installed from src since it looks in /opt/ros/hydro/share/orocos_kdl
+  * FIxed orocos_kdl and visual_pose not found by putting them after catkin_package()
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 24 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.18-0precise) precise; urgency=high
+
+  * Fixed orocos_kdl missing in pr2_plugs_common
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 23 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.17-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 20 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.16-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 20 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.15-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 20 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.14-0precise) precise; urgency=high
+
+  * Fixing orocos bug
+  * fixed orocos-kdl
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 17 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.13-0precise) precise; urgency=high
+
+  * Removed mainpage.dox
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 14 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.12-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 10 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.11-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 10 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.10-0precise) precise; urgency=high
+
+  * pr2_plugs is now in unstable, compiles
+  * ADded cmake version tag
+  * Fixed misname in CMake
+  * Contributors: TheDash, dash
+  * ADded cmake version tag
+  * Fixed misname in CMake
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 18 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.9-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.8-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.7-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.6-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 11 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.5-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.4-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.3-0precise) precise; urgency=high
+
+  * removed kdl
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.2-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-plugs-common (1.0.1-0precise) precise; urgency=high
+
+  * Added install targets
+  * Generate changelogs
+  * now compiles in hydro
+  * Added
+  * Fixes
+  * fixes
+  * Fixed
+  * Catkin changes
+  * Linker error fix
+  * Fixed Cmake for linker errors
+  * Now compiles in hydro
+  * Remove makefile
+  * Catkinization fix
+  * pr2_plugs_common catkinization
+  * Current updates..
+  * remove custom controllers for plugs, and start using default controllers
+  * copy branch into trunk
+  * Contributors: TheDash, wim
+  * now compiles in hydro
+  * Added
+  * Fixes
+  * fixes
+  * Fixed
+  * Catkin changes
+  * Linker error fix
+  * Fixed Cmake for linker errors
+  * Now compiles in hydro
+  * Remove makefile
+  * Catkinization fix
+  * pr2_plugs_common catkinization
+  * Current updates..
+  * remove custom controllers for plugs, and start using default controllers
+  * copy branch into trunk
+  * Contributors: TheDash, wim
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+
