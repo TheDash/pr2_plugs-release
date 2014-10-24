@@ -2,6 +2,14 @@
 Changelog for package checkerboard_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.19 (2014-10-24)
+-------------------
+* Added set(orocos_kdl_DIR) to get around the fail orocos_kdl package, will not work if orocos is being installed from src since it looks in /opt/ros/hydro/share/orocos_kdl
+* Contributors: TheDash
+
+1.0.18 (2014-10-23)
+-------------------
+
 1.0.17 (2014-10-20)
 -------------------
 * Fixed the linking bug in checkerboard_pose_est
