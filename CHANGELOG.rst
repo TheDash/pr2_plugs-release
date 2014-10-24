@@ -2,6 +2,16 @@
 Changelog for package visual_pose_estimation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.19 (2014-10-24)
+-------------------
+* FIxed orocos_kdl and visual_pose not found by putting them after catkin_package()
+* Contributors: TheDash
+
+1.0.18 (2014-10-23)
+-------------------
+* Fixed orocos_kdl missing in pr2_plugs_common
+* Contributors: TheDash
+
 1.0.17 (2014-10-20)
 -------------------
 * Fixed the linking bug in checkerboard_pose_est
